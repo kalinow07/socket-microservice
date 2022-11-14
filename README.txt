@@ -2,15 +2,8 @@
 - из папки docker запустить docker-compose up -d
 
 Запуск приложения NestJs
-- из папки nestjs-socket-microservice запустить npm i npm run start:dev
+- из папки nestjs-socket-microservice запустить npm i npm
 - из папки nestjs-socket-microservice запустить npm run start:dev
-
-Установка библиотек для Python
-- pip install socketio
-- pip install rabbitpy
-- pip install json
-- pip install numpy
-
 
 Тестирование:
 - В файле ws-client.py поменять значение переменной client_count. Это количество socket соединений к микросервису
