@@ -5,7 +5,7 @@
 - из папки nestjs-socket-microservice запустить npm i npm
 - из папки nestjs-socket-microservice запустить npm run start:dev
 
-В папке python-rabbit уже присутствует python-интерпретатор со всеми необходимыми библиотеками.
+С целью простоты запуска в папке python-rabbit уже присутствует python-интерпретатор со всеми необходимыми библиотеками.
 
 Тестирование:
 - В файле ws-client.py поменять значение переменной client_count. Это количество socket соединений к микросервису
