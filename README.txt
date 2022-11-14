@@ -2,7 +2,7 @@
 - из папки docker запустить docker-compose up -d
 
 Запуск приложения NestJs
-- из папки nestjs-socket-microservice запустить npm i npm
+- из папки nestjs-socket-microservice запустить npm i
 - из папки nestjs-socket-microservice запустить npm run start:dev
 
 С целью простоты запуска в папке python-rabbit уже присутствует python-интерпретатор со всеми необходимыми библиотеками.
